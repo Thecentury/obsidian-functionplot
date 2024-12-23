@@ -21,7 +21,7 @@ Since version `1.1.0` you can create plots via a handy GUI with live-preview fun
     ![Create plot modal](./images/create-modal/light.png#gh-light-mode-only)
     ![Create plot modal](./images/create-modal//dark.png#gh-dark-mode-only)
 
-3. This will create a coordinate system with bounds `-10 < x < 10, -10 < y < 10` and plot the functions f and g. If you havent disabled it, you can even drag and zoom the graph.
+3. This will create a coordinate system with bounds `-10 < x < 10, -10 < y < 10` and plot the functions f and g. If you haven't disabled it, you can even drag and zoom the graph.
 
 <!--     ![Graph image](./images/plot/light.png#gh-light-mode-only)
     ![Graph image](./images/plot/dark.png#gh-dark-mode-only) -->
@@ -51,7 +51,7 @@ title: The random graph
 xLabel: Time
 yLabel: Cost
 bounds: [0, 10, 0, 50]
-disbaleZoom: 1
+disableZoom: 1
 grid: true
 ---
 g(x)=x^PI
@@ -80,7 +80,7 @@ If you have any questions about the usage of the plugin, take a look at the [wik
 
 ## 🐞 Bugs and Errors
 
-If you encounter any errors while using this plugin, please report them to us. To do so, click [this link](https://github.com/leonhma/obsidian-functionplot/issues/new?assignees=leonhma&labels=bug&template=BUG_REPORT.yml), fill out the form as best as you can and click `Submit new issue`. These issues are publically viewable, so please don't submit any personal information.
+If you encounter any errors while using this plugin, please report them to us. To do so, click [this link](https://github.com/leonhma/obsidian-functionplot/issues/new?assignees=leonhma&labels=bug&template=BUG_REPORT.yml), fill out the form as best as you can and click `Submit new issue`. These issues are publicly viewable, so please don't submit any personal information.
 
 ## 🤝 Contributing
 
